@@ -41,7 +41,7 @@ foo(False)
 '''
 class ClassName(base_class[es]):
     '''
-
+  
 
 
 
